@@ -1,3 +1,5 @@
+//Author: Karthik Banjan
+
 package carsharing.model;
 
 public class Company {
