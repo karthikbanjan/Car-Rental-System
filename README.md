@@ -1,6 +1,7 @@
 # Car-Rental-System
 Console Based Car Rental Database for Companies and their Customers.
 I used H2 database to store information on Companies, Cars and Customers.
+The menu code implementation may not be the best but it's enough for a small project.
 Please do not copy this project "word for word" but take inspiration from it.
 
 Done as part of HyperSkill challenge.
