@@ -3,6 +3,7 @@ Console Based Car Rental Database for Companies and their Customers.
 
 All Menus::
 Base Menu:
+
 ![image](https://user-images.githubusercontent.com/92287364/187676330-1317bdb2-dc74-462b-ab21-1a89ec8d14e8.png)
 
 Manager Menu:
