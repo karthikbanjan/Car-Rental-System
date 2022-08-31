@@ -1,7 +1,7 @@
 # Car-Rental-System
 Console Based Car Rental Database for Companies and their Customers.
 
-All Menus::
+<ins>All Menus</ins>
 
 Base Menu:
 
